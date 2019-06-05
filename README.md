@@ -1,4 +1,6 @@
-hello-world-readme
-testing commit command line
-this line was written on my local command line!
-how do I add newlines?
+Hello World Repo
+Commit from local command line
+How do I add new lines?
+Figured
+It
+Out
