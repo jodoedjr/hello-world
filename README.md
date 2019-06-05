@@ -3,4 +3,4 @@ Commit from local command line
 How do I add new lines?
 Figured
 It
-Out
+Outadding one more line from command line
